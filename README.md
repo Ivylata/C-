@@ -9,7 +9,7 @@ Function<br>
 Array<br>
 Dynamic memory allocation<br>
 Pointers<br>
-<b> Oops Concepts<br>:
+<b> Oops Concepts <br>:
 Constructor and Deligating Constructor , Destructor <br>
 Getters and Setters <br>
 Friend Keyword <br>
