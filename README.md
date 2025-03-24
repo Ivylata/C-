@@ -18,5 +18,6 @@ Inheritance and usage of final keyword<br>
 <b>Projects : <br> </b>
 Basic Calculator<br>
 Rock-Paper-Scissors Game<br>
-Online Store using Standard Template Library(STL)
+Online Store using Standard Template Library(STL)<br>
+Employee Management System
 
